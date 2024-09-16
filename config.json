@@ -1,0 +1,8 @@
+{
+  "minimum_amount": 500,
+  "refresh_rate": 20,
+  "windows_notification": "True",
+  "webhook_enabled": "True",
+  "ping role": "@here",
+  "webhook url": "your webhook"
+}
